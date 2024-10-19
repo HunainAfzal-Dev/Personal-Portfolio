@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelors (Software Engineering)",
+    duration: "2024 - Present",
+    institution: "Virtual University of Pakistan",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Bachelor of Arts",
+    duration: "2023 - present",
+    institution: "Tando jan Muhammad Boys College",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Intermediate",
+    duration: "2000 - 2022",
+    institution: "G.B.H.S.S.D Mirpurkhas",
   }
 ]
